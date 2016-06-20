@@ -7,6 +7,7 @@ import Garfield.GarfieldScraper;
 import Peanuts.PeanutsScraper;
 import SMBC.SMBCScraper;
 import XKCD.XKCDScraper;
+import ZenPencils.ZenPencilsScraper;
 
 /**
  * Created by manojkarthicks on 6/20/2016.
@@ -52,6 +53,10 @@ public class RunAll {
             System.out.println("Downloading XKCD Comics..");
             XKCDScraper xkcdScraper = new XKCDScraper();
             xkcdScraper.startPoint();
+
+            System.out.println("Downloading ZenPencils Comics..");
+            ZenPencilsScraper zenPencilsScraper = new ZenPencilsScraper();
+            zenPencilsScraper.startPoint();
 
         }
         catch (Exception e)

@@ -19,7 +19,7 @@ import java.util.List;
 public class ZenPencilsScraper {
 
     private static String filesPath;
-    public static void main(String args[])
+    public static void startPoint()
     {
         String baseURL ="http://zenpencils.com/";
         Document document;
