@@ -1,7 +1,9 @@
-# comictose
+# Comictose
 A scraper that extracts some of the popular comic strips!
 
 Visit this [link](https://manojkarthick.github.io/comictose/) to know more!
+
+> There is not enough time to do all the Nothing we want to do - **Bill Watterson**
 
 Here's the awesome list of Comics that are available!
 * **Aunty Acid** 
