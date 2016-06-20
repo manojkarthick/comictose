@@ -1,6 +1,4 @@
 # Comictose
-[![Slack](https://comictose.slack.com/messages/general/)]
-
 A scraper that extracts some of the popular comic strips!
 
 Visit this [link](https://manojkarthick.github.io/comictose/) to know more!
@@ -22,3 +20,6 @@ Here's the awesome list of Comics that are available!
 
 ### Authors
 Created by [A V S Mounica](https://github.com/avsmounica) and [Manoj Karthick](https://github.com/manojkarthick)
+
+### Contact
+Join the chat  on [Slack](https://comictose.slack.com/messages/general/)
