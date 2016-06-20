@@ -23,4 +23,5 @@ Created by [A V S Mounica](https://github.com/avsmounica) and [Manoj Karthick](h
 
 ### Contact
 Join the chat  on [Slack](https://comictose.slack.com/messages/general/)!
-You can also send an e-mail to manojkarthick@ymail.com. Let us know if you need any other Comic.
+You can also send an e-mail to manojkarthick@ymail.com.
+Let us know if you need any other Comic.
