@@ -1,4 +1,6 @@
 # Comictose
+[![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)]https://comictose.slack.com/messages/general/)
+
 A scraper that extracts some of the popular comic strips!
 
 Visit this [link](https://manojkarthick.github.io/comictose/) to know more!
