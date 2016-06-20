@@ -19,4 +19,4 @@ Here's the awesome list of Comics that are available!
 
 
 ### Authors
-Created by @avsmounica and @manojkarthick
+Created by [A V S Mounica](https://github.com/avsmounica) and [Manoj Karthick](https://github.com/manojkarthick)
