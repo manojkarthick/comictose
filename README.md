@@ -22,4 +22,5 @@ Here's the awesome list of Comics that are available!
 Created by [A V S Mounica](https://github.com/avsmounica) and [Manoj Karthick](https://github.com/manojkarthick)
 
 ### Contact
-Join the chat  on [Slack](https://comictose.slack.com/messages/general/)
+Join the chat  on [Slack](https://comictose.slack.com/messages/general/)!
+You can also send an e-mail to manojkarthick@ymail.com. Let us know if you need any other Comic.
