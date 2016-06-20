@@ -1,7 +1,7 @@
 # comictose
 A scraper that extracts some of the popular comic strips!
 
-Visit this [link](http://bit.ly/28LGSQe) to know more!
+Visit this [link](https://manojkarthick.github.io/comictose/) to know more!
 
 Here's the awesome list of Comics that are available!
 * **Aunty Acid** - Aunty Acid is a Sassy senior that tells it straight. She is wickedly witty and wonderfully wise and with her husband Walt they deliver us their irreverent thoughts on everyday life.
