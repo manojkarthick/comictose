@@ -11,7 +11,7 @@ import java.security.CodeSource;
  * Created by manojkarthicks on 6/20/2016.
  */
 public class FilePathTest {
-    public static void main(String args[]) {
+    public static void func() {
         try {
             CodeSource codeSource = FilePathTest.class.getProtectionDomain().getCodeSource();
             File jarFile = new File(codeSource.getLocation().toURI().getPath());

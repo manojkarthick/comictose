@@ -24,7 +24,7 @@ import java.util.*;
  */
 public class ExampleProgram {
 
-    public static void main(String args[])
+    public static void func()
     {
 
         String baseURL = "http://XKCD.com/";
