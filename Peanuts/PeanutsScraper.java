@@ -41,7 +41,6 @@ public class PeanutsScraper {
             } else if (i > 0 && i < (NUM_OF_THREADS - 1)) {
                 start = end.plusDays(1);
                 end = start.plusDays(perThreadDays);
-                System.out.println(end.toString());
                 if (end.isAfter(endDate)) {
                     end = endDate;
                     threadList[i] = new PeanutsThread(i, filesPath, start, end);

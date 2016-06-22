@@ -39,7 +39,6 @@ public class GarfieldThread extends Thread {
                 Element element = document.getElementsByClass("strip").first();
                 String absoluteUrl = element.absUrl("src");
                 java.net.URL imageURL = new URL(absoluteUrl);
-                System.out.println(absoluteUrl);
                 BufferedImage image = ImageIO.read(imageURL);
                 if (imageURL.toString().endsWith("png")) {
                     ImageIO.write(image, "png", new File(filesPath + "\\" + date.toString() + ".png"));

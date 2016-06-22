@@ -39,7 +39,6 @@ public class GarfieldScraper {
                 end = start.plusDays(perThreadDays);
                 threadList[i] = new GarfieldThread(i, filesPath, start, end);
             } else if (i > 0 && i < (NUM_OF_THREADS - 1)) {
-                System.out.println(i);
                 start = end.plusDays(1);
                 end = start.plusDays(perThreadDays);
                 if (end.isAfter(endDate)) {
