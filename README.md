@@ -29,8 +29,8 @@ Here's the awesome list of Comics that are available!
 5. A separate folder for the comic will be created in the destination. Happy Reading!
 
 ### Authors
-Created by [Manoj Karthick](https://github.com/manojkarthick)
+Created by [Manoj Karthick](https://github.com/manojkarthick) and [Mounica]()
 
 ### Contact
 Join the chat  on [Slack](https://comictose.slack.com/messages/general/)!
-You can also send an e-mail to manojkarthick@ymail.com.
+You can also send an e-mail to manojkarthick@ymail.com or avs.mounica@gmail.com .
